@@ -25,7 +25,6 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 * Total Sales Revenue: $698,812.33
 * Total Footfall: 149,116
 * Average Transaction Value: Approximately $4.69
-* Total Items Sold: 214,470
 * Most Sold Product Category: Coffee
 
 ## 🔍 Key Insights
