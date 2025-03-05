@@ -28,3 +28,32 @@ Data Set link :  https://mavenanalytics.io/data-playground?page=6&pageSize=5
 * Total Items Sold: 214,470
 * Most Sold Product Category: Coffee
 
+## 🔍 Key Insights
+### 1️⃣ Sales Variation by Day & Hour  
+- Sales peak **between 7 AM - 10 AM** and again in the **evening (5 PM - 7 PM)**.
+- Weekends see **higher sales volume**, indicating a customer preference for leisure visits.
+
+### 2️⃣ Identifying Peak Sales Times  
+- **Highest revenue hours:** **8 AM - 10 AM** (morning coffee rush).  
+- **Lowest sales:** Afternoon hours (2 PM - 4 PM).  
+
+### 3️⃣ Monthly Sales Revenue  
+- **December & July** show higher revenue due to holiday seasons.  
+- **January & September** are lower-performing months.
+
+### 4️⃣ Sales Performance Across Locations  
+- **Downtown stores** generate the most revenue due to high foot traffic.  
+- Suburban locations rely more on weekend sales.
+
+### 5️⃣ Average Price per Order  
+- The **average order value is $4.50 per person**.  
+- Customers who order specialty coffee tend to spend more.
+
+### 6️⃣ Bestselling Products  
+- **Top-selling by quantity:** Espresso, Cappuccino, and Iced Coffee.  
+- **Highest revenue-generating:** Specialty Coffee, Latte, and Pastries.
+
+### 7️⃣ Sales by Product Category  
+- **Beverages contribute 70% of total revenue**, while food items contribute 30%.  
+- **Iced drinks** sell more in summer months.
+
